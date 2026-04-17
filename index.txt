@@ -2,5 +2,4 @@ data
 status
 copy
 devops
-Docker
-network
+
