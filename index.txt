@@ -1,11 +1,1 @@
-<<<<<<< HEAD
 epcet 
-=======
-data
-status
-copy
-devops
-Docker
-network
-kubernetes
->>>>>>> parent of 1d075f8 (Revert "Added kubernetes")
